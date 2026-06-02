@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⛩️ Anish Beniwal
-### *Modern Ronin of the Web*
+### *I MAKE SMALL THINGS ON THE INTERNET*
 
-<img src="https://images.unsplash.com/photo-1554310603-d39d43033735?auto=format&fit=crop&w=1200&q=80" alt="Cyber Samurai Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px; object-fit: cover; height: 250px;">
+<img src="./assets/muj.jpg" alt="Manipal University Jaipur" width="100%" style="border-radius: 12px; ">
 
 <br>
 
@@ -21,42 +21,32 @@
 
 ## ⚔️ About Me
 
-Wandering the vast digital landscape, I am a CSE major at **NIT Patna**, wielding modern frameworks to cut through complex problems. My philosophy is simple: **"Break First, Build Later."** Every bug is a duel; every deployment, a victory.
+I'm a CS student somewhere between **"this is broken"** and **"oh, that's cool"**. Mostly I build little web apps, take too many notes, and try to figure out how things actually work under the hood.
 
 - 🥋 **Training In:** Advanced Full-Stack Architecture, Clean Code, & Scalability.
 - 🎯 **Current Focus:** Sharpening my TypeScript, React, and Backend.
 
 <br><br>
 
-## 🗡️ The Arsenal (Tech Stack)
+## 🗡️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,django,python,cpp,java,mongodb,postgres,docker,git,linux&perline=15" alt="Anurag's Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js,mysql,git,github&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 </div>
 
 <br><br>
 
-## 📜 Sacred Scrolls (Featured Projects)
+## 📜 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/anurag3407/GhostHunter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anurag3407&repo=GhostHunter&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GhostHunter" width="48%">
-  </a>
-  <a href="https://github.com/anurag3407/Lexi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anurag3407&repo=Lexi&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lexi" width="48%">
-  </a>
-  <br><br>
-  <a href="https://github.com/anurag3407/Justice_track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anurag3407&repo=Justice_track&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Justice_track" width="48%">
-  </a>
-  <a href="https://github.com/anurag3407/Django-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anurag3407&repo=Django-project&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Django Project" width="48%">
+  <a href="https://github.com/beniwalanish/Real_Time_Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beniwalanish&repo=Real_Time_Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Real Time Tracker" width="48%">
   </a>
 </div>
 
 <br><br>
-
-
 
 <div align="center">
   <h3>🐍 The Contribution Dragon</h3>
