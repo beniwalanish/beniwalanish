@@ -3,7 +3,7 @@
 # ⛩️ Anish Beniwal
 ### *I MAKE SMALL THINGS ON THE INTERNET*
 
-<img src="./assets/muj.jpg" alt="Manipal University Jaipur" width="100%" style="border-radius: 12px; ">
+<img src="./assets/muj.webp" alt="Manipal University Jaipur" width="100%" style="border-radius: 12px; ">
 
 <br>
 
@@ -42,7 +42,7 @@ I'm a CS student somewhere between **"this is broken"** and **"oh, that's cool"*
 
 <div align="center">
   <a href="https://github.com/beniwalanish/Real_Time_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beniwalanish&repo=Real_Time_Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Real Time Tracker" width="48%">
+    <img src="./assets/Track.webp" alt="Real Time Tracker" width="48%">
   </a>
 </div>
 
