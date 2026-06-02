@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">ANISH BENIWAL</h1>
 <h3 align="center">Computer Science Student | Open Source Contributor | Java Developer</h3>
 
 <p align="center">
